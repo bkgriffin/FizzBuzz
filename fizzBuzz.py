@@ -3,7 +3,6 @@
 # author: Brandon Griffin <brandon.k.griffin@gmail.com>
 # ver:    0.1
 # date:   11/24/13
-# little change
 
 class FizzBuzz:
     """
